@@ -1088,9 +1088,9 @@ audio {
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 15px;
+	font-size: 25px;
 	color: #BF4136;
-	text-shadow: 2px 2px 2px #FFF;
+	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
 #b1,#b11 {
